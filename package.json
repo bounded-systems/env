@@ -4,7 +4,10 @@
   "description": "The one sanctioned reader of process.env, routing ambient config through capability imports",
   "bounded": {
     "tagline": "The one sanctioned reader of process.env, routing ambient config through capability imports",
-    "kind": "door"
+    "kind": "door",
+    "facet": "verb",
+    "role": "capability-seam",
+    "domain": "environment/config"
   },
   "license": "MIT",
   "type": "module",
