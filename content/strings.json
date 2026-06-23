@@ -3,8 +3,16 @@
     "type": "name",
     "value": "env"
   },
+  "tagline": {
+    "type": "tagline",
+    "value": "The one sanctioned reader of process.env."
+  },
   "description": {
     "type": "meta",
-    "value": "The one sanctioned reader of process.env, routing ambient config through capability imports"
+    "value": "The one sanctioned reader of process. env.  Ambient configuration is authority."
+  },
+  "keywords": {
+    "type": "body",
+    "value": "ENV · PROCESS-ENV · CAPABILITY · CONFIGURATION · AMBIENT-AUTHORITY · SEAM"
   }
 }
