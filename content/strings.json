@@ -1,0 +1,10 @@
+{
+  "name": {
+    "type": "name",
+    "value": "env"
+  },
+  "description": {
+    "type": "meta",
+    "value": "The one sanctioned reader of process.env, routing ambient config through capability imports"
+  }
+}
